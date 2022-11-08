@@ -1,2 +1,2 @@
-# nosql-mongodb-proyect
-CRUD Ecommerce app, with basic mongodb 
+# node-complete
+Application full stack with Node js, Express and SQL Database
